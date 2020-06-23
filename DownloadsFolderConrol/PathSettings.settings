@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DownloadsFolderConrol" GeneratedClassName="PathSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Music" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\Music\MP3</Value>
+    </Setting>
+    <Setting Name="WallPapers" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\Images\Desktop Wallpapers</Value>
+    </Setting>
+    <Setting Name="SavedImages" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Images\Saved Pictures</Value>
+    </Setting>
+    <Setting Name="Downloads" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Downloads</Value>
+    </Setting>
+    <Setting Name="TestFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\FileMoverTest</Value>
+    </Setting>
+    <Setting Name="SaveLocDict" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\FileMoverSavePaths.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
